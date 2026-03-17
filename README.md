@@ -1,5 +1,8 @@
 NOVA | Web Application Designer Portfolio
 
+**Live Demo**
+https://preethikasuburamani.github.io/Black-and-White-responsive-cross-browser-compatible-interfaces/index.html
+
 How to use this project
 1)Clone the repository.
 
@@ -9,13 +12,12 @@ How to use this project
 
 Welcome to my digital canvas. This project is a multi-page professional portfolio built with a focus on minimalist aesthetics, featuring a "black and white" design language that emphasizes content and clean typography.
 
-🖋️ About the Project
+**About the Project**
 This website serves as a personal portfolio to showcase my skills in web design and development. I specialize in crafting captivating online experiences that balance form and function. The site is designed to be sleek and professional, using a dark theme to create a modern, high-contrast look.
 
-🚀 Live Demo
-(Once you enable GitHub Pages in your repo settings, paste the link here)
 
-✨ Key Features
+
+**** Key Features****
 Modern Navigation: A persistent header across all pages including Home, Portfolio, Services, About, and Contact.
 
 Grid-Based Gallery: A clean, organized portfolio layout using CSS Grid to display project work.
@@ -26,14 +28,14 @@ Interactive Forms: A styled contact page with a form for potential clients to re
 
 Responsive Styling: Built with Flexbox and CSS Grid to handle layout structure efficiently.
 
-🛠️ Built With
+** Built With**
 HTML5: Structured for clear, semantic content.
 
 CSS3: Custom styling including Google Fonts integration ('Roboto') and Flexbox/Grid layouts.
 
 Font Awesome: Integrated for professional social media iconography.
 
-📂 Project Structure
+ **Project Structure**
 home.html: The landing page with a hero introduction.
 
 portfolio.html: A gallery section for visual project displays.
