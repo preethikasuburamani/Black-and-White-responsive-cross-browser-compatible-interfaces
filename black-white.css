@@ -81,7 +81,7 @@ body {
     transition: var(--transition);
 }
 
-.work-with-nova button: hover {
+.work-with-nova button:hover {
     transform: translateY(-3px);
     box-shadow: 0 5px 15px rgba(255,255,255,0.2);
 }
@@ -103,9 +103,9 @@ body {
     transition: var(--transition);
 }
 
-.main-gallary img: hover {
+.main-gallary img:hover {
     filter: grayscale(0%);
-    transform: scale(1.02);
+    transform:scale(1.02);
 }
 
 /* About Us Section */
@@ -173,7 +173,7 @@ body {
     margin-top: 20px;
 }
 
-.about button: hover {
+.about button:hover {
     background: transparent;
     color: white;
     box-shadow: 0 0 0 2px white inset;
@@ -334,13 +334,13 @@ body {
 }
 
 /* Card Hover Effects */
-.content: hover {
+.content:hover {
     background: white;
     transform: translateY(-10px);
 }
 
-.content: hover h1, 
-.content: hover p {
+.content:hover h1, 
+.content:hover p {
     color: black;
 }
 
@@ -379,4 +379,5 @@ body {
         position: static;
         margin-bottom: 30px;
     }
+}
 }
