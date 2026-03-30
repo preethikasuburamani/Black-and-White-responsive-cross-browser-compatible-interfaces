@@ -20,6 +20,9 @@ This project showcases a black-and-white themed UI designed to work seamlessly a
 **Purpose**
 Created as a practice project to strengthen fundamentals in responsive design and clean UI development without relying on external libraries.
 
+**Screen Short**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/78436548-49c9-472d-936a-419dda5dac95" />
+
  **Project Structure**
 home.html: The landing page with a hero introduction.
 portfolio.html: A gallery section for visual project displays.
